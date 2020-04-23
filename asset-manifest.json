@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/michaelsobhy/5-ravenous-with-react/static/css/main.74f7e626.chunk.css",
+    "main.js": "/michaelsobhy/5-ravenous-with-react/static/js/main.20ca4098.chunk.js",
+    "main.js.map": "/michaelsobhy/5-ravenous-with-react/static/js/main.20ca4098.chunk.js.map",
+    "runtime-main.js": "/michaelsobhy/5-ravenous-with-react/static/js/runtime-main.5e73c350.js",
+    "runtime-main.js.map": "/michaelsobhy/5-ravenous-with-react/static/js/runtime-main.5e73c350.js.map",
+    "static/js/2.fc4fd13a.chunk.js": "/michaelsobhy/5-ravenous-with-react/static/js/2.fc4fd13a.chunk.js",
+    "static/js/2.fc4fd13a.chunk.js.map": "/michaelsobhy/5-ravenous-with-react/static/js/2.fc4fd13a.chunk.js.map",
+    "index.html": "/michaelsobhy/5-ravenous-with-react/index.html",
+    "precache-manifest.1d8689abdce2f2ec03585c263445fefd.js": "/michaelsobhy/5-ravenous-with-react/precache-manifest.1d8689abdce2f2ec03585c263445fefd.js",
+    "service-worker.js": "/michaelsobhy/5-ravenous-with-react/service-worker.js",
+    "static/css/main.74f7e626.chunk.css.map": "/michaelsobhy/5-ravenous-with-react/static/css/main.74f7e626.chunk.css.map",
+    "static/js/2.fc4fd13a.chunk.js.LICENSE.txt": "/michaelsobhy/5-ravenous-with-react/static/js/2.fc4fd13a.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/michaelsobhy/5-ravenous-with-react/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e73c350.js",
+    "static/js/2.fc4fd13a.chunk.js",
+    "static/css/main.74f7e626.chunk.css",
+    "static/js/main.20ca4098.chunk.js"
+  ]
+}
